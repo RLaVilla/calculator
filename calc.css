@@ -1,0 +1,30 @@
+#buttonContainer {
+    display: flex;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.buttons {
+    width: 150px;
+    height: 150px; 
+    font-size: 30px;
+    text-align: center;
+}
+
+.operator {
+    font-size: 45px;
+}
+
+.display {
+    width: 600px;
+    height: 150px;
+    border: solid 1px black;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
