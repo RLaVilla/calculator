@@ -21,7 +21,7 @@
 }
 
 .equal {
-    background-color: black;
+    background-color: rgb(41, 39, 39);
     color: orange;
 }
 
@@ -37,14 +37,25 @@
     margin: auto;
     justify-content: center;
     align-items: center;
-    background-color: grey;
+    background-color: rgb(41, 39, 39);
 }
 
 .screen {
-    background-color: white;
+    background-color: rgb(206, 202, 202);
     width: 540px;
     height: 90px;
     border: solid 1px black;
-
 }
 
+.clear {
+    width: 600px;
+    height: 80px;
+    background-color: rgb(151, 39, 39);
+    font-size: 30px;
+}
+
+.clearDiv {
+    width: 600px;
+    height: 80px;
+    margin: auto;
+}
