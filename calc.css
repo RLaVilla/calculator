@@ -13,18 +13,38 @@
     height: 150px; 
     font-size: 30px;
     text-align: center;
+    background-color: grey;
 }
 
 .operator {
     font-size: 45px;
 }
 
+.equal {
+    background-color: black;
+    color: orange;
+}
+
+.sign {
+    background-color: orange;
+}
+
 .display {
+    display: flex;
     width: 600px;
     height: 150px;
     border: solid 1px black;
     margin: auto;
     justify-content: center;
     align-items: center;
+    background-color: grey;
+}
+
+.screen {
+    background-color: white;
+    width: 540px;
+    height: 90px;
+    border: solid 1px black;
+
 }
 
