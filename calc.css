@@ -40,14 +40,18 @@
     background-color: rgb(41, 39, 39);
 }
 
-.screen {
+#screen {
     background-color: rgb(206, 202, 202);
     width: 540px;
     height: 90px;
     border: solid 1px black;
+    font-size: 80px;
+    text-align: start;
+    padding: 10px;
+
 }
 
-.clear {
+#clear {
     width: 600px;
     height: 80px;
     background-color: rgb(151, 39, 39);
@@ -58,4 +62,10 @@
     width: 600px;
     height: 80px;
     margin: auto;
+}
+
+.highlight {
+    background-color:rgb(156, 102, 0); /* You can customize the color */
+    color: white; /* Text color */
+    border: 2px solid #333; /* Optional border */   
 }
