@@ -16,6 +16,7 @@
     color: black;
     text-align: center;
     background-color: grey;
+    box-sizing: border-box;
     border: solid black 1px;
 }
 
@@ -43,6 +44,7 @@
     justify-content: center;
     align-items: center;
     background-color: rgb(41, 39, 39);
+    border: solid black 1px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
@@ -60,7 +62,7 @@
     border-top-right-radius: 18px;
     /* border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px; */
-    border: solid black 1px;
+    border: solid 1px black;
 }
 
 #clear {
@@ -80,6 +82,7 @@
     height: 80px;
     margin: auto;
     border-radius: 20px;
+    border: solid 1px black;
 }
 
 .highlight {
