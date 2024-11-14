@@ -1,6 +1,7 @@
 #buttonContainer {
     display: flex;
     width: 360px;
+    height: 360px;
     justify-content: center;
     align-items: center;
     flex-direction: row;
@@ -57,6 +58,8 @@
     color: black;
     border-top-left-radius: 18px;
     border-top-right-radius: 18px;
+    /* border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px; */
     border: solid black 1px;
 }
 
