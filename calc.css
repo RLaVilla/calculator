@@ -1,6 +1,6 @@
 #buttonContainer {
     display: flex;
-    width: 400px;
+    width: 360px;
     justify-content: center;
     align-items: center;
     flex-direction: row;
@@ -9,8 +9,8 @@
 }
 
 .buttons {
-    width: 100px;
-    height: 100px; 
+    width: 90px;
+    height: 90px; 
     font-size: 30px;
     color: black;
     text-align: center;
@@ -33,7 +33,7 @@
 
 .display {
     display: flex;
-    width: 400px;
+    width: 360px;
     height: 120px;
     margin: auto;
     justify-content: center;
@@ -45,8 +45,8 @@
 
 #screen {
     background-color: rgb(206, 202, 202);
-    width: 360px;
-    height: 75px;
+    width: 320px;
+    height: 80px;
     border: solid 1px black;
     font-size: 80px;
     text-align: start;
@@ -57,17 +57,18 @@
 }
 
 #clear {
-    width: 400px;
+    width: 360px;
     height: 80px;
     background-color: rgb(151, 39, 39);
     font-size: 30px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     border: solid black 1px;
+    color: black;
 }
 
 .clearDiv {
-    width: 400px;
+    width: 360px;
     height: 80px;
     margin: auto;
     border-radius: 20px;;
