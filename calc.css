@@ -72,7 +72,7 @@
     font-size: 30px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    border: solid black 1px;
+    border: solid rgb(41, 39, 39) 10px;
     color: black;
     text-align: center;
 }
@@ -82,7 +82,7 @@
     height: 80px;
     margin: auto;
     border-radius: 20px;
-    border: solid 1px black;
+    
 }
 
 .highlight {
