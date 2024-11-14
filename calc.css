@@ -20,15 +20,18 @@
 
 .operator {
     font-size: 45px;
+    text-align: center;
 }
 
 .equal {
     background-color: rgb(41, 39, 39);
     color: orange;
+    text-align: center;
 }
 
 .sign {
     background-color: orange;
+    text-align: center;
 }
 
 .display {
@@ -65,13 +68,14 @@
     border-bottom-right-radius: 20px;
     border: solid black 1px;
     color: black;
+    text-align: center;
 }
 
 .clearDiv {
     width: 360px;
     height: 80px;
     margin: auto;
-    border-radius: 20px;;
+    border-radius: 20px;
 }
 
 .highlight {
